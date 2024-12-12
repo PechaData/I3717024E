@@ -34,6 +34,10 @@
       {
         "source": "I3717024E/layers/345F/Tibetan_Segment-4C61.json",
         "target": "I9AB44EE4/layers/3240/English_Segment-B1D3.json"
+      },
+      {
+        "source": "I3717024E/layers/345F/Tibetan_Segment-4C61.json",
+        "target": "I74264775/layers/1434/English_Segment-C150.json"
       }
     ]
   },
